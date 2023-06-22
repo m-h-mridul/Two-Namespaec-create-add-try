@@ -1,4 +1,4 @@
-# Two-Namespaec-create-add-try
+# Two-Namespaec-create-add-try   <p align=right><a href="https://medium.com/@mhmridul2400/install-vagrant-linux-using-qemu-and-create-two-namespaces-and-connect-them-by-veth-cable-on-d2b9506093b0" target="_blank">Medium</a> </p>  
 ### Linux network namespaces
 
 Linux network namespaces are a Linux kernel feature allowing us to isolate network environments through virtualization. For example, using network namespaces, you can create separate network interfaces and routing tables that are isolated from the rest of the system and operate independently.
